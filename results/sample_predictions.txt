@@ -1,0 +1,23 @@
+Sample Predictions
+==============================
+#Text: The support team solved my issue quickly
+Predicted Sentiment: positive
+
+
+#Text: I am unhappy with the service
+Predicted Sentiment: negative
+
+
+
+#Text: The response was okay
+Predicted Sentiment: neutral
+
+
+
+#Text: Excellent customer support experience
+Predicted Sentiment: positive
+
+
+
+#Text: My complaint has still not been resolved
+Predicted Sentiment: negative
